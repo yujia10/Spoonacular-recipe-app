@@ -1,7 +1,8 @@
 
 # Yummm recipe app
 
-a recipe app built with Spoonacular API
+- a recipe app built with [Spoonacular API](https://spoonacular.com/food-api/docs)
+- React-Router, React-Hooks, Styled-Components
 
 
 ## Features
